@@ -1,0 +1,21 @@
+{
+  "dims": [
+    "z_high_dim_0",
+    "z_high_dim_1",
+    "z_high_dim_2",
+    "z_high_dim_3",
+    "z_low_dim_0",
+    "z_low_dim_1",
+    "z_low_dim_2",
+    "z_low_dim_3",
+    "z_low_dim_4",
+    "z_low_dim_5",
+    "z_low_dim_6",
+    "z_low_dim_7",
+    "z_low_dim_8",
+    "z_low_dim_9",
+    "z_low_dim_10",
+    "z_low_dim_11"
+  ],
+  "steps": 7
+}
